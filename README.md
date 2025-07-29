@@ -91,7 +91,9 @@ python report_generator.py
 ## Output
 <img width="960" height="540" alt="2025-07-29 (1)" src="https://github.com/user-attachments/assets/19571a27-7385-4efa-9557-adc7148587f8" />
 
+
+
 <img width="960" height="443" alt="2025-07-29 (2)" src="https://github.com/user-attachments/assets/0fa2205e-4918-44fd-8281-1479ac4a5b8e" />
 
-<img width="960" height="540" alt="2025-07-29 (3)" src="https://github.com/user-attachments/assets/2dcc4dbc-a373-41bd-9650-637827777f1b" />
+
 
