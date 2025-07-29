@@ -13,34 +13,19 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
-Here’s a polished and professional **`README.md`** tailored for your **Cricket Centurions Analysis** project, inspired by GitHub standards and best practices:
-
----
-
-
-## Cricket Centurions Analysis – Automated Report Generation
-
-**Internship Project – CodTech IT Solutions**
-
-**Intern:** Guraka Kalyan (Intern ID: CT06DZ415)  
-**Domain:** Python Development | **Mentor:** Neela Santhosh | **Duration:** 6 Weeks
-
----
-
-## 📌 Project Overview
+##  Project Overview
 
 This Python-based project automates the generation of a PDF report that analyzes the top international cricket players with the most career centuries (100s) across Test, ODI, and T20I formats.  
 It demonstrates how to process structured data (CSV), calculate statistics, and produce professional reports using the **FPDF** library — with optional visualization.
 
 ---
 
-## 🎯 Features
+##  Features
 
-- ✅ Reads player data from a CSV (`centuries_split.csv`)  
-- ✅ Calculates total centuries across formats  
-- ✅ Filters and sorts players based on highest century count  
-- ✅ Generates a formatted PDF report (`centuries_report.pdf`) using **FPDF**  
-- 📊 *(Optional)* Generates bar charts for top performers using **matplotlib**
+-  Reads player data from a CSV (`centuries_split.csv`)  
+-  Calculates total centuries across formats  
+-  Filters and sorts players based on highest century count  
+-  Generates a formatted PDF report (`centuries_report.pdf`) using **FPDF**  
 
 ---
 
@@ -60,16 +45,16 @@ It demonstrates how to process structured data (CSV), calculate statistics, and 
 
 cricket-centurions-report/
 │
-├── centuries\_split.csv         # Input data file (Player vs format-wise 100s)
-├── report\_generator.py         # Script to analyze data and create PDF
-├── centuries\_report.pdf        # Output PDF report (sample)
+├── centuries_split.csv         # Input data file (Player vs format-wise 100s)
+├── report_generator.py         # Script to analyze data and create PDF
+├── centuries_report.pdf        # Output PDF report (sample)
 └── README.md                   # Project documentation
 
 ````
 
 ---
 
-## 🚀 Setup & Run
+##  Setup & Run
 
 ### Clone the Repo
 ```bash
@@ -102,7 +87,6 @@ python report_generator.py
 
 ✅ This runs the analysis and creates `centuries_report.pdf` in the same folder.
 
----
 
 ## Output
 <img width="960" height="540" alt="2025-07-29 (1)" src="https://github.com/user-attachments/assets/19571a27-7385-4efa-9557-adc7148587f8" />
