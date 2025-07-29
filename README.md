@@ -92,4 +92,5 @@ python report_generator.py
 <img width="960" height="540" alt="2025-07-29 (1)" src="https://github.com/user-attachments/assets/19571a27-7385-4efa-9557-adc7148587f8" />
 
 
-[centurion_report.pdf](https://github.com/user-attachments/files/21490518/centurion_report.pdf)
+<img width="324" height="395" alt="2025-07-29 (3)" src="https://github.com/user-attachments/assets/2dcc4dbc-a373-41bd-9650-637827777f1b" />
+
